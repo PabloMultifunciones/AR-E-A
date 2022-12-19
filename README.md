@@ -41,3 +41,5 @@ La entropia es lo negativo de la media
 
 La entripoa para el estudiante C es la mas alta, lo que significa que es el que enfrenta mayor incertidumbre.
 
+Para mas info: https://medium.com/analytics-vidhya/loss-functions-and-the-mathematical-intuition-behind-them-fec4ac95b117
+
